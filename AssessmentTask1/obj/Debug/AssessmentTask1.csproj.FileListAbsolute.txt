@@ -1,0 +1,7 @@
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\bin\Debug\AssessmentTask1.exe.config
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\bin\Debug\AssessmentTask1.exe
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\bin\Debug\AssessmentTask1.pdb
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\obj\Debug\AssessmentTask1.csprojAssemblyReference.cache
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\obj\Debug\AssessmentTask1.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\obj\Debug\AssessmentTask1.exe
+C:\Users\Hunter\Desktop\C# Programming\Term 2 Assessment Tasks\Assessment Task 1\AssessmentTask1\AssessmentTask1\obj\Debug\AssessmentTask1.pdb
